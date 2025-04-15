@@ -4,4 +4,4 @@ theme: just-the-docs
 
 # Enable custom CSS
 just_the_docs:
-  custom_css: "assets/css/custom.scss"
+  custom_css: "custom.scss"
