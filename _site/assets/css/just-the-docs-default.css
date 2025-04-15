@@ -314,7 +314,7 @@ template {
 
 ::selection {
   color: #fff;
-  background: #7253ed;
+  background: #2c84fa;
 }
 
 html {
@@ -369,7 +369,7 @@ p {
 }
 
 a {
-  color: #7253ed;
+  color: #2c84fa;
   text-decoration: none;
 }
 
@@ -381,7 +381,7 @@ a:not([class]) {
   background-size: 1px 1px;
 }
 a:not([class]):hover {
-  background-image: linear-gradient(rgba(114, 83, 237, 0.45) 0%, rgba(114, 83, 237, 0.45) 100%);
+  background-image: linear-gradient(rgba(44, 132, 250, 0.45) 0%, rgba(44, 132, 250, 0.45) 100%);
   background-size: 1px 1px;
 }
 
@@ -629,7 +629,7 @@ body {
 .icon {
   width: 1.5rem;
   height: 1.5rem;
-  color: #7253ed;
+  color: #2c84fa;
 }
 
 .main-content {
@@ -784,7 +784,7 @@ body {
   display: inline-block;
   width: 100%;
   height: 100%;
-  color: #7253ed;
+  color: #2c84fa;
   visibility: hidden;
 }
 .main-content .anchor-heading:hover svg,
@@ -911,7 +911,7 @@ body {
   padding-right: 0.75rem;
   padding-bottom: 0.75rem;
   padding-left: 0.75rem;
-  color: #7253ed;
+  color: #2c84fa;
 }
 @media (min-width: 50rem) {
   .nav-list .nav-list-item .nav-list-expander {
@@ -1197,7 +1197,7 @@ h6,
   font-size: inherit;
   font-weight: 500;
   line-height: 1.5;
-  color: #7253ed;
+  color: #2c84fa;
   text-decoration: none;
   vertical-align: baseline;
   cursor: pointer;
@@ -1216,7 +1216,7 @@ h6,
   box-shadow: 0 0 0 3px rgba(0, 0, 255, 0.25);
 }
 .btn:hover, .btn.zeroclipboard-is-hover {
-  color: rgb(106.4305263158, 73.7663157895, 236.0336842105);
+  color: rgb(34.0361111111, 126.1916666667, 249.7638888889);
 }
 .btn:hover, .btn:active, .btn.zeroclipboard-is-hover, .btn.zeroclipboard-is-active {
   text-decoration: none;
@@ -1239,12 +1239,12 @@ h6,
 }
 
 .btn-outline {
-  color: #7253ed;
+  color: #2c84fa;
   background: transparent;
   box-shadow: inset 0 0 0 2px #e6e1e8;
 }
 .btn-outline:hover, .btn-outline:active, .btn-outline.zeroclipboard-is-hover, .btn-outline.zeroclipboard-is-active {
-  color: rgb(98.8610526316, 64.5326315789, 235.0673684211);
+  color: rgb(24.0722222222, 120.3833333333, 249.5277777778);
   text-decoration: none;
   background-color: transparent;
   box-shadow: inset 0 0 0 3px #e6e1e8;
@@ -1407,7 +1407,7 @@ h6,
   outline: 0;
 }
 .search-input:focus + .search-label .search-icon {
-  color: #7253ed;
+  color: #2c84fa;
 }
 
 .search-label {
@@ -1529,7 +1529,7 @@ h6,
   width: 1rem;
   height: 1rem;
   margin-right: 0.5rem;
-  color: #7253ed;
+  color: #2c84fa;
   flex-shrink: 0;
 }
 .search-result-doc .search-result-doc-title {
@@ -1612,7 +1612,7 @@ h6,
   width: 3.5rem;
   height: 3.5rem;
   background-color: #fff;
-  border: 1px solid rgba(114, 83, 237, 0.3);
+  border: 1px solid rgba(44, 132, 250, 0.3);
   border-radius: 1.75rem;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
   align-items: center;
