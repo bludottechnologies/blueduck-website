@@ -5,4 +5,4 @@ title: Welcome
 
 # Welcome
 
-Check out our [Legal Pages](/legals/)
+Check out our [Legal Stuff](/legals/)
