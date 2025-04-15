@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Legal Info
+nav_order: 2
 ---
 
 # Legal Information

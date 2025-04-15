@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Terms & Conditions
+nav_order: 3
 ---
 
 # Terms and Conditions

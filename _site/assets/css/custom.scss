@@ -1,0 +1,14 @@
+// assets/css/custom.scss
+
+// Optional: override any variables BEFORE the import
+$body-background-color: #fefefe;
+$sidebar-color: #2d2d2d;
+$accent-color: #0074d9;
+$link-color: #0074d9;
+
+body {
+  background-color: pink;
+}
+
+// Then import the theme
+@import "just-the-docs";
