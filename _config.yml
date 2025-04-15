@@ -1,2 +1,15 @@
 theme: minima
+email: support@bludottechnologies.com
 title: Blue Duck
+
+# Custom nav menu
+minima:
+  navigation:
+    - title: Home
+      url: /
+    - title: Legal Stuff
+      url: /legals/
+    - title: Terms
+      url: /legals/terms.html
+    - title: Privacy
+      url: /legals/privacy.html
