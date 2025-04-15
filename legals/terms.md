@@ -15,8 +15,6 @@ title: Terms & Conditions
 
 **Email:** **support@bludottechnologies.com**
 
-## 89 Art Visa Mastercard Images, Stock Photos, 3D objects ...2. Card Brand Logos
-
 **We accept secure payments via:**
 
 - **Visa**
@@ -24,15 +22,15 @@ title: Terms & Conditions
 
 ## 3. Marketplace Overview
 
-\*\*Blu Dot Technologies provides a mobile application that serves as a marketplace platform through which customers can purchase convenience retail products, including but not limited to alcohol, tobacco, snacks, and groceries. These products are supplied and delivered by third-party retailers (“Sellers”) operating through our platform.
+Blu Dot Technologies provides a mobile application that serves as a marketplace platform through which customers can purchase convenience retail products, including but not limited to alcohol, tobacco, snacks, and groceries. These products are supplied and delivered by third-party retailers (“Sellers”) operating through our platform.
 
-By using our platform, you acknowledge that you are entering a contractual relationship with Blu Dot Technologies Ltd as the marketplace operator, and not directly with the individual sellers.\*\*
+By using our platform, you acknowledge that you are entering a contractual relationship with Blu Dot Technologies Ltd as the marketplace operator, and not directly with the individual sellers.
 
 ## 4. Products and Services
 
-\*\*The Platform offers a curated range of retail convenience items, including regulated products like alcohol and tobacco. All such products are provided in compliance with local licensing and legal requirements. Age verification will be enforced where required.
+The Platform offers a curated range of retail convenience items, including regulated products like alcohol and tobacco. All such products are provided in compliance with local licensing and legal requirements. Age verification will be enforced where required.
 
-Blu Dot Technologies acts as the merchant of record and facilitates payments, order processing, and customer support on behalf of our Sellers.\*\*
+Blu Dot Technologies acts as the merchant of record and facilitates payments, order processing, and customer support on behalf of our Sellers.
 
 ## 5. Payments
 

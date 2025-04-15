@@ -29,7 +29,7 @@ This privacy policy describes:
 - Location, via GPS, in order calculate your position in the delivery zone;
 - Address, for delivery;
 - Age, in order to ensure legal sale of age-restricted items;
-- Payment details are collected by Stripe, the payment processing company we use, whose privacy policy can be found [here.](https://stripe.com/gb/privacy) As a result we do not hold any payment details.
+- Payment details are collected by Adyen, the payment processing company we use. As a result we do not hold any payment details.
 
 **2.2 Data created during use**
 
@@ -63,9 +63,9 @@ Any use of personal information other than those outlined in this policy will re
 
 In order to provide delivery services, we provide the fulfilment centre with the full name, delivery address, e-mail address and phone number of the user once an order is placed. In order to protect this data, the fulfilment centre and its employees commit to acting according to their duty of confidentiality.
 
-By using Blue Duck, you agree to your payment details being shared with Stripe, which processes each payment. Stripe receives your name, payment details and e-mail address, through which we send a receipt of purchase and organise refunds.
+By using Blue Duck, you agree to your payment details being shared with Adyen, which processes each payment. Adyen receives your name, payment details and e-mail address, through which we send a receipt of purchase and organise refunds.
 
-We host and maintain Blue Duck using Digital Ocean as our data hosting centre. The privacy policy for Digital Ocean can be found [here.](https://www.digitalocean.com/legal/privacy-policy/)
+We host and maintain Blue Duck using AWS as our data hosting centre.
 
 Where we use providers based in the US, we transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between Europe and the US. For further details, see [European Commission: EU-US Privacy Shield.](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/eu-us-data-transfers_en)
 
